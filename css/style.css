@@ -6,14 +6,18 @@ http://www.templatemo.com/tm-479-sigma
 
 */
 
+body {
+    font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 34px;
+}
 
-
-
-
-
-
-
-
+.container1 {
+  padding: 75px 0;
+  margin: 0 auto;
+  width: 1140px;
+}
 
 h1 {
   position: relative;
